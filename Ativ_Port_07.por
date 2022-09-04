@@ -9,7 +9,7 @@ programa
 		leia(num)
 		
 		se (num > 0){
-			escreva ("O número "+num+" é positivo.")
+			escreva ("O número "+num+" é positivo.")
 		} senao se (num < 0) {
 			escreva ("O número "+num+" é negativo.")
 		} senao {
